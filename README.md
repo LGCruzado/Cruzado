@@ -6,6 +6,16 @@
 
 Soy un apasionado a los videojuegos y streamer en mis tiempos libres. Me gusta divertirme y disfrutar de lo que hago, y poco a poco llegar a mejorar con experiencia en los juego y ayudar a otros jugadores a hacer lo mismo.
 
+---
+<a href="https://www.twitch.tv/LGCruzado">
+  <img src="https://img.shields.io/twitch/status/LGCruzado?color=Green&logo=Twitch&style=for-the-badge" alt="Twitch Status">
+</a>
+
+<a href="https://discord.gg/your-discord-invite-link">
+  <img src="https://img.shields.io/discord/758245268448739351?color=Blue&label=Discord&logo=Discord&logoColor=Blue&style=for-the-badge" alt="Discord Server">
+</a>
+
+
 ## Mis juegos favoritos 🎯
 
 - [Valorant]: No tengo un rol definido, pero me gusta mucho ser "centinela".
